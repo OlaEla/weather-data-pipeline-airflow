@@ -1,0 +1,8 @@
+apache-airflow-providers-openlineage>=1.8.0
+apache-airflow-providers-telegram
+PyMySQL
+pandas
+python-dotenv
+requests
+sqlalchemy
+apache-airflow[mysql]
